@@ -148,7 +148,7 @@ params:
       closed: false
     - name: Non Essential Websites
       description: The non essential websites of PRH such as redirects, test websites, side-projects etc. have their status displayed here.
-      closed: false
+      closed: true
    # - name: Uncategorized
    #   untitled: true
 
