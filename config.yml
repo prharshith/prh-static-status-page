@@ -147,7 +147,7 @@ params:
       description: The main websites of PRH such as portfolio, my-links, projects etc. have their status displayed here.
       closed: false
     - name: Non Essential Websites
-      description: The non essential websites of PRH such as redirects, test websites, experimental etc. have their status displayed here.
+      description: The non essential websites of PRH such as redirects, test websites, side-projects etc. have their status displayed here.
       closed: false
    # - name: Uncategorized
    #   untitled: true
@@ -163,16 +163,46 @@ params:
     - name: Portfolio Website
       description: The main portfolio website of PRH.
       category: Main Websites
+
     - name: Portfolio Website Backup
       description: The backup portfolio website of PRH.
       category: Main Websites
+
     - name: Social Links Website
       description: All my social links in a single page.
       category: Main Websites
+
     - name: Social Links [Private]
       description: A private social links website.
       category: Main Websites
-      
+
+    - name: Course Cloud
+      description: My college project website to help students study better.
+      category: Main Websites
+
+    - name: MyBag Website
+      description: A collab project of me and my friend which has been archived due to inactivity.
+      category: Main Websites    
+
+    - name: StudentNotesPortal Redirect
+      description: The main portfolio website of PRH.
+      category: Non Essential Websites
+
+    - name: StudentNotesPortal Dark Mode Redirect
+      description: The backup portfolio website of PRH.
+      category: Non Essential Websites
+
+    - name: CloudWeather Website
+      description: A website that displays realtime weather info of your location.
+      category: Non Essential Websites
+
+    - name: NeoIPTrack Website
+      description: A website that can show your public IP address to you.
+      category: Non Essential Websites
+
+    - name: Speedtest Website
+      description: A website that displays your broadband internet speed.
+      category: Non Essential Websites      
    # - name: Website
    #   description: The web frontend for the application.
    #  category: Uncategorized
