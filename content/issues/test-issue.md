@@ -2,7 +2,6 @@
 title: Major outage with websites
 date: 2017-02-30 14:30:00
 resolved: false
-resolvedWhen: 2017-02-30 16:00:00
 severity: disrupted
 affected:
   - Portfolio Website
