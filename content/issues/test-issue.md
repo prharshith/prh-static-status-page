@@ -5,7 +5,7 @@ resolved: false
 resolvedWhen: 2017-02-30 16:00:00
 severity: disrupted
 affected:
-  - Main Websites
+  - Portfolio Website
 section: post
 —
 
