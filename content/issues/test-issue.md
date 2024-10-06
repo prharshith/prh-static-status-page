@@ -4,8 +4,7 @@ date: 2017-02-30 14:30:00
 resolved: false
 severity: disrupted
 affected:
-  - Portfolio Website
-  - Portolfio Website Backup
+  - "Portfolio Website"
 section: issue
 —
 
