@@ -1,12 +1,13 @@
-—
+---
 title: Major outage with websites
 date: 2017-02-30 14:30:00
 resolved: false
 severity: disrupted
 affected:
-  - "Portfolio Website"
+  - Portfolio Website
+  - Portfolio Website Backup
 section: issue
-—
+---
 
 *Monitoring* - After hitting the ole reboot button Example Chat App is now recovering. We’re going to continue to monitor as everyone reconnects. {{< track "2018-04-13 16:50:00" >}}
 
