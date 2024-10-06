@@ -97,7 +97,7 @@ defaultContentLanguage: en
 #
 # Broken example:
 # baseUrl: /
-baseURL: 
+baseURL: /
 
 # For features like Last modified, you
 # need to use a Git repository. If you
@@ -148,7 +148,7 @@ params:
       closed: false
     - name: Non Essential Websites
       description: The non essential websites of PRH such as redirects, test websites, side-projects etc. have their status displayed here.
-      closed: true
+      closed: false
    # - name: Uncategorized
    #   untitled: true
 
