@@ -1,7 +1,7 @@
 ---
 title: Major outage with websites
 date: 2024-10-06 14:30:00
-severity: disrupted
+severity: down
 affected:
   - Portfolio Website
   - Portfolio Website Backup
